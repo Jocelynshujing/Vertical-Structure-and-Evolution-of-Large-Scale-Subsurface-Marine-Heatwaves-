@@ -1,4 +1,4 @@
-To overview all tracked MHW events through time, we made animations of MHW tracks every 3 years since 1993 Jan to 2020 December. (color darkness: severity index, the darker the more severe)
+To overview all tracked MHW events through time, we made animations of MHW tracks every 4 years since 1993 Jan to 2020 December. (color darkness: severity index, the darker the more severe)
 
 1993-1996
 https://github.com/user-attachments/assets/26c24221-da12-4b02-bdfb-bd2ac596957b
